@@ -139,7 +139,6 @@ public class ProductBO {
 	public final Long getNetworkId() {
 		return networkId;
 	}
-	//Initial Checkin
 
 	public final void setNetworkId(Long networkId) {
 		this.networkId = networkId;
